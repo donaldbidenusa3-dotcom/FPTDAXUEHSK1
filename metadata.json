@@ -1,0 +1,6 @@
+{
+  "name": "HSK 1 Chinese Learning Master",
+  "description": "Nền tảng học và ôn luyện toàn diện HSK 1 - CHN113: Flashcard 3D, Quizlet game, Kho công thức, Thư viện tranh nói và Hệ thống bài tập 5 dạng có chấm chữa thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
